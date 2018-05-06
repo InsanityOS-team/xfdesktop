@@ -4,8 +4,7 @@
 backgroundsdir = $(datadir)/backgrounds/xfce
 
 backgrounds_DATA = \
-    xfce-blue.jpg \
-    xfce-teal.jpg
+	mountain.jpg
                     
 
 EXTRA_DIST = $(backgrounds_DATA)
